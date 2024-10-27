@@ -10,4 +10,8 @@ By reading and using my code, you agree to the following terms:
   - Give proper credit to all the people you've stolen code from and list the projects with licenses
   - Disable code scraping permanetly
  
-  If you fail to follow those instructions you have to dump 10 thousand tons of sand into the Susquehanna river and contact local news with a photo and why you had to
+  If you fail to follow those instructions you have to:
+  - Buy 2L cans of a generic cheap energy drink
+  - Buy 3 cases of sour gummy strips
+  - Mix the two in a large container for 2.5 minutes
+  - Drink using a Red Vine as a straw
